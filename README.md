@@ -1,7 +1,7 @@
 
 # Alternative Language Project - NIM
 
-[View my Replit project]([https://replit.com/@morganbenavidez/AlternativeLanguageNim])
+[View my Replit project](https://replit.com/@morganbenavidez/AlternativeLanguageNim)
 
 
 **Language and Version**: I chose **Nim version 1.6.0** for this project. Nim offers the performance of C with the readability of Python, ideal for efficient systems programming with an easy development process.
