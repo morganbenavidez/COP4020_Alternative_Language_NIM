@@ -35,4 +35,8 @@ I picked Nim due to its compatibility with C, C++ and JavaScript, which allows f
 
 - **Most Active Launch Years Post-1999**: The year 2019 saw the most phone launches, highlighting a peak year in mobile technology development and market dynamics.
 
+- **Testing**: I created unit tests for my 7 functions as well. In the image below you can see the printed results for the questions and also the results of the unit tests.
+
+![Answers to Questions and Unit Test Results](
+
 These insights showcase Nim's robust capabilities for data processing, and I learned a lot from doing this assignment.
