@@ -5,7 +5,7 @@
 
 ## Why Nim?
 
-I picked Nim for its excellent support for complex data processing tasks and its compatibility with C and JavaScript, which allows for flexible integration with various systems. Nim also provides clean syntax and advanced metaprogramming features, helping simplify code for data manipulation.
+I picked Nim for its excellent support for complex data processing tasks and its compatibility with C, C++ and JavaScript, which allows for flexible integration with various systems. Nim also provides clean syntax and advanced metaprogramming features, helping simplify code for data manipulation.
 
 ## Nim Features in Action
 
