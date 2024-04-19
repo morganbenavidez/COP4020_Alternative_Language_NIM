@@ -5,7 +5,7 @@
 
 ## Why Nim?
 
-I picked Nim for its excellent support for complex data processing tasks and its compatibility with C, C++ and JavaScript, which allows for flexible integration with various systems. Nim also provides clean syntax and advanced metaprogramming features, helping simplify code for data manipulation.
+I picked Nim due to its compatibility with C, C++ and JavaScript, which allows for flexible integration with various systems. Nim also provides clean syntax which helps simplify code. The idea that I could use one semi-pythonic language that can be converted into 3 other ones intrigued me. That was the main reason I chose this language.
 
 ## Nim Features in Action
 
@@ -35,4 +35,4 @@ I picked Nim for its excellent support for complex data processing tasks and its
 
 - **Most Active Launch Years Post-1999**: The year 2019 saw the most phone launches, highlighting a peak year in mobile technology development and market dynamics.
 
-These insights showcase Nim's robust capabilities for data processing, making it a suitable choice for detailed analytical tasks in technology product analysis.
+These insights showcase Nim's robust capabilities for data processing, and I learned a lot from doing this assignment.
